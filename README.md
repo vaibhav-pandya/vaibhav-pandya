@@ -8,13 +8,13 @@
 - 💻 Built projects on **Federated Learning, XGBoost, PySpark, and Power BI Dashboards**.
 
 ### 🏆 My Projects
-- **📈 Consumer Electronics Sales Metrics** *(Power BI Dashboard for real-time analytics)*  
-  [![GitHub](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav-pandya/consumer-electronics-sales-metrics)
-- **🔒 Federated Learning Implementation** *(Privacy-Preserving Machine Learning)*  
-  [![GitHub](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav-pandya/federated-learning)
-- **🤖 100 Days of ML Challenge** *(Hands-on ML & Data Analysis)*  
-  [![GitHub](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav-pandya/100-days-of-ml)
-
+- **Consumer Electronics Sales Metrics** *(Power BI Dashboard for real-time analytics)*  
+  🔗 [View Project](https://github.com/vaibhav-pandya/consumer-electronics-sales-metrics)
+- **Federated Learning Implementation** *(Privacy-Preserving Machine Learning)*  
+  🔗 [View Project](https://github.com/vaibhav-pandya/federated-learning)
+- **100 Days of ML Challenge** *(Hands-on ML & Data Analysis)*  
+  🔗 [View Project](https://github.com/vaibhav-pandya/100-days-of-ml)
+  
 ### 🛠️ Tech Stack & Skills
 - **Data Science & Analytics**: Python, SQL, Machine Learning, Feature Engineering, Statistics
 - **Big Data & Cloud**: PySpark, Azure, AWS, Databricks
