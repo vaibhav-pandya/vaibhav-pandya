@@ -9,9 +9,9 @@
 
 ### 🏆 My Projects
 - **[Student Performance Prediction:](https://github.com/vaibhav-pandya/studentperformanceprediction)** Predicting student grades based on various academic and demographic factors using ML models.
-- **[Customer Churn Prediction:](https://github.com/vaibhav-pandya/customer-churn-prediction)** *Developed a model to predict customer attrition and identify key factors affecting churn.*  
-- **[SalesMetrics-PowerBI:](https://github.com/vaibhav-pandya/SalesMetrics-PowerBI)** *An interactive Power BI dashboard analyzing sales performance and trends for business insights.*  
-- **[PySpark-Tutorial:](https://github.com/vaibhav-pandya/PySpark-Tutorial)** *Comprehensive guide on using PySpark for big data processing and analytics.*  
+- **[Customer Churn Prediction:](https://github.com/vaibhav-pandya/customer-churn-prediction)** Developed a model to predict customer attrition and identify key factors affecting churn.  
+- **[SalesMetrics-PowerBI:](https://github.com/vaibhav-pandya/SalesMetrics-PowerBI)** An interactive Power BI dashboard analyzing sales performance and trends for business insights.  
+- **[PySpark-Tutorial:](https://github.com/vaibhav-pandya/PySpark-Tutorial)** Comprehensive guide on using PySpark for big data processing and analytics.  
   
 ### 🛠️ Tech Stack & Skills
 - **Data Science & Analytics**: Python, SQL, Machine Learning, Feature Engineering, Statistics
