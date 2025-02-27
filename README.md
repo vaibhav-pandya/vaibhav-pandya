@@ -3,7 +3,7 @@
 ### 🚀 About Me
 - 🎯 **Data Analyst @ SquareYards | Aspiring Data Scientist**
 - 📊 Passionate about **data-driven decision-making and predictive analytics**.
-- 🎓 MCA Graduate from **Amity University**| 🏅 **Gold Medalist**.
+- 🎓 MCA Graduate from **Amity University** | 🏅 **Gold Medalist**.
 - 💡 Currently honing my skills in **Advanced Machine Learning and Cloud Computing**.
 - 💻 Built projects on **Federated Learning, XGBoost, PySpark, and Power BI Dashboards**.
 
