@@ -8,7 +8,7 @@
 - 💻 Built projects on **Federated Learning, XGBoost, PySpark, and Power BI Dashboards**.
 
 ### 🏆 My Projects
-- **Student Performance Prediction** *(Predicting student grades based on various academic and demographic factors using ML models.)*  
+- **Student Performance Prediction(https://github.com/vaibhav-pandya/studentperformanceprediction)** *Predicting student grades based on various academic and demographic factors using ML models.*  
   🔗 [View Project](https://github.com/vaibhav-pandya/studentperformanceprediction)
 - **Customer Churn Prediction** *(Developed a model to predict customer attrition and identify key factors affecting churn.)*  
   🔗 [View Project](https://github.com/vaibhav-pandya/customer-churn-prediction)
