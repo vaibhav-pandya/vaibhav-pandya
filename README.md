@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm Vaibhav Pandya
 
 ### 🚀 About Me
-🎯 **Data Analyst @ SquareYards | Aspiring Data Scientist**
-📊 Passionate about **data-driven decision-making and predictive analytics**.
-🎓 MCA Graduate from **Amity University**.
-💡 Currently honing my skills in **Advanced Machine Learning and Cloud Computing**.
-💻 Built projects on **Federated Learning, XGBoost, PySpark, and Power BI Dashboards**.
+-🎯 **Data Analyst @ SquareYards | Aspiring Data Scientist**
+-📊 Passionate about **data-driven decision-making and predictive analytics**.
+-🎓 MCA Graduate from **Amity University**.
+-💡 Currently honing my skills in **Advanced Machine Learning and Cloud Computing**.
+-💻 Built projects on **Federated Learning, XGBoost, PySpark, and Power BI Dashboards**.
 
 ### 🏆 My Projects
 - **🔗[Student Performance Prediction:](https://github.com/vaibhav-pandya/studentperformanceprediction)** *Predicting student grades based on various academic and demographic factors using ML models.* 
