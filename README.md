@@ -8,12 +8,14 @@
 - 💻 Built projects on **Federated Learning, XGBoost, PySpark, and Power BI Dashboards**.
 
 ### 🏆 My Projects
-- **Consumer Electronics Sales Metrics** *(Power BI Dashboard for real-time analytics)*  
-  🔗 [View Project](https://github.com/vaibhav-pandya/consumer-electronics-sales-metrics)
-- **Federated Learning Implementation** *(Privacy-Preserving Machine Learning)*  
-  🔗 [View Project](https://github.com/vaibhav-pandya/federated-learning)
-- **100 Days of ML Challenge** *(Hands-on ML & Data Analysis)*  
-  🔗 [View Project](https://github.com/vaibhav-pandya/100-days-of-ml)
+- **Student Performance Prediction** *(Predicting student grades based on various academic and demographic factors using ML models.)*  
+  🔗 [View Project](https://github.com/vaibhav-pandya/studentperformanceprediction)
+- **Customer Churn Prediction** *(Developed a model to predict customer attrition and identify key factors affecting churn.)*  
+  🔗 [View Project](https://github.com/vaibhav-pandya/customer-churn-prediction)
+- **SalesMetrics-PowerBI** *(An interactive Power BI dashboard analyzing sales performance and trends for business insights.)*  
+  🔗 [View Project](https://github.com/vaibhav-pandya/SalesMetrics-PowerBI)
+- **PySpark-Tutorial** *(Comprehensive guide on using PySpark for big data processing and analytics.)*  
+  🔗 [View Project](https://github.com/vaibhav-pandya/PySpark-Tutorial)
   
 ### 🛠️ Tech Stack & Skills
 - **Data Science & Analytics**: Python, SQL, Machine Learning, Feature Engineering, Statistics
