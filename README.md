@@ -14,7 +14,7 @@
 - **[PySpark-Tutorial:](https://github.com/vaibhav-pandya/PySpark-Tutorial)** *Comprehensive guide on using PySpark for big data processing and analytics.*
 
 ### 📜 Certifications
-- **Python for Data Science Certification**  
+- **Python for Data Science Certification from NPTEL**  
   🔗 [View Certificate](https://drive.google.com/file/d/13sJ79EQZY2WXssLBLT9IyHCvu3JwctKo/view?usp=sharing)
   
 ### 🛠️ Tech Stack & Skills
@@ -28,6 +28,9 @@
 - **Deep Learning & AI Applications**
 - **MLOps & Model Deployment on Cloud**
 - **Scalable Data Engineering Solutions**
+
+### 📄 Resume
+📥 [Download Resume](https://drive.google.com/file/d/1ZtukJXfUiIgmpTu0xDXh3VCMp6EjsgkP/view?usp=sharing)
 
 ### 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav-pandya)
