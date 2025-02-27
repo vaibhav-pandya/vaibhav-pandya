@@ -4,20 +4,23 @@
 - 🎯 **Data Analyst @ SquareYards | Aspiring Data Scientist**
 - 📊 Passionate about **data-driven decision-making and predictive analytics**.
 - 🎓 MCA Graduate from **Amity University**.
-- 💡 Currently honing my skills in **Advanced Machine Learning, Cloud Computing, and Data Engineering**.
-- 💻 Built projects on **Federated Learning, XGBoost, DBSCAN Clustering, and Power BI Dashboards**.
+- 💡 Currently honing my skills in **Advanced Machine Learning and Cloud Computing**.
+- 💻 Built projects on **Federated Learning, XGBoost, PySpark, and Power BI Dashboards**.
 
 ### 🏆 My Projects
-- **📈 Consumer Electronics Sales Metrics** *(Power BI Dashboard for real-time analytics)*
-- **🔒 Federated Learning Implementation** *(Privacy-Preserving Machine Learning)*
-- **🤖 100 Days of ML Challenge** *(Hands-on ML & Data Analysis)*
+- **📈 Consumer Electronics Sales Metrics** *(Power BI Dashboard for real-time analytics)*  
+  [![GitHub](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav-pandya/consumer-electronics-sales-metrics)
+- **🔒 Federated Learning Implementation** *(Privacy-Preserving Machine Learning)*  
+  [![GitHub](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav-pandya/federated-learning)
+- **🤖 100 Days of ML Challenge** *(Hands-on ML & Data Analysis)*  
+  [![GitHub](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav-pandya/100-days-of-ml)
 
 ### 🛠️ Tech Stack & Skills
 - **Data Science & Analytics**: Python, SQL, Machine Learning, Feature Engineering, Statistics
 - **Big Data & Cloud**: PySpark, Azure, AWS, Databricks
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Development & Deployment**: Flask, DevOps
-- **Visualization**: Power BI, Matplotlib, Seaborn
+- **Databases**: MySQL, MongoDB
+- **Development & Deployment**: Docker, DevOps, Flask
+- **Visualization**: Power BI, Matplotlib, Seaborn, Plotly
 
 ### 🌱 Currently Exploring
 - **Deep Learning & AI Applications**
