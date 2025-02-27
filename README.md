@@ -25,8 +25,8 @@
 - **Scalable Data Engineering Solutions**
 
 ### 📫 Connect with Me
-- **GitHub**: [vaibhav-pandya](https://github.com/vaibhav-pandya)
-- **LinkedIn**: [vaibhavpandya40](https://linkedin.com/in/vaibhavpandya40)
-- **Instagram**: [@vaibhavpandya40](https://instagram.com/vaibhavpandya40)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav-pandya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavpandya2903/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavpandya2903@gmail.com)
 
 ⚡ *Let's collaborate and turn data into insights that drive impact!* 🚀
