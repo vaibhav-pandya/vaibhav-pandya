@@ -8,7 +8,7 @@
 - 💻 Built projects on **Federated Learning, XGBoost, PySpark, and Power BI Dashboards**.
 
 ### 📚 My Projects
-- **[Confidential Collaborative Health Analysis: A Unique Federated Learning Approach:](https://github.com/vaibhav-pandya/Confidential-Collaborative-Health-Analysis-A-Unique-Federated-Learning-Approach)** *Developed a privacy-preserving federated learning model for healthcare data, enabling multiple institutions to collaboratively train AI models without sharing sensitive patient information.*
+- **[Confidential Collaborative Health Analysis: A Unique Federated Learning Approach:](https://github.com/vaibhav-pandya/Confidential-Collaborative-Health-Analysis-A-Unique-Federated-Learning-Approach)** *Designed a federated learning model for healthcare, enabling secure AI training across institutions without sharing patient data..*
 - **[Student Performance Prediction:](https://github.com/vaibhav-pandya/studentperformanceprediction)** *Predicting student grades based on various academic and demographic factors using ML models.*
 - **[Customer Churn Prediction:](https://github.com/vaibhav-pandya/customer-churn-prediction)** *Developed a model to predict customer attrition and identify key factors affecting churn.*  
 - **[SalesMetrics-PowerBI:](https://github.com/vaibhav-pandya/SalesMetrics-PowerBI)** *An interactive Power BI dashboard analyzing sales performance and trends for business insights.*  
@@ -31,7 +31,7 @@
 - **Scalable Data Engineering Solutions**
 
 ### 📄 Resume
- 🔗 [View Resume](https://drive.google.com/file/d/1ZtukJXfUiIgmpTu0xDXh3VCMp6EjsgkP/view?usp=sharing)
+ 🔗 [View Resume](https://drive.google.com/file/d/1o977VC5TXn6yufhuBGlJJoNaJ0HWyQqL/view?usp=sharing)
 
 ### 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav-pandya)
