@@ -31,7 +31,7 @@
 - **Scalable Data Engineering Solutions**
 
 ### 📄 Resume
- 🔗 [View Resume](https://drive.google.com/file/d/1iKqYXgJn47b5SxTBqNvY-RvyBbN39oJ7/view?usp=sharing)
+ 🔗 [View Resume](https://drive.google.com/file/d/1bkvi18mnre3Q16cccVaJtfN7eTZ1Cwdw/view?usp=sharing)
 
 ### 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav-pandya)
