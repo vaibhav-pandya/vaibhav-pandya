@@ -1,7 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Vaibhav Pandya
 
 ### 🚀 About Me
-- 🎯 **Data Analyst @ SquareYards | Aspiring Data Scientist**
+- 🎯 **Data Analyst @ Simfoni | Aspiring Data Scientist**
 - 📊 Passionate about **data-driven decision-making and predictive analytics**.
 - 🎓 MCA Graduate from **Amity University** | 🏅 **Gold Medalist**.
 - 💡 Currently honing my skills in **Advanced Machine Learning and Cloud Computing**.
